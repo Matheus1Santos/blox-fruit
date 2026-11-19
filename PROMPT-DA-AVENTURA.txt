@@ -1,0 +1,7 @@
+Ferramenta: ImageGen integrada (sem uso de CLI/API externa).
+Arquivo final usado no site: dist/assets/aventura.webp
+Imagem gerada em PNG e otimizada para WebP com Pillow.
+
+Prompt utilizado:
+
+Use case: stylized-concept. Asset type: original hero artwork for a Portuguese Blox Fruits fan website. Primary request: a spectacular stylized 3D blocky pirate fantasy island landscape inspired by the world of Blox Fruits and Roblox. Wide cinematic 16:9 composition. On the RIGHT HALF, a large mysterious emerald-green cubic magical fruit with glossy curling spiral carvings and two leafy crown points, floating and slightly tilted over a small rocky tropical island pedestal; graceful luminous mint energy trails orbit the fruit. In the middle distance right, a small wooden pirate sailing ship with dark green sails, turquoise ocean and fragmented tropical islands, distant towering rock formations and blue mist. The LEFT THIRD is relatively empty dark navy sky and sea to support overlay website text, no prominent objects there. Style: premium videogame key art, tactile beveled block geometry, very polished 3D lighting, playful adventurous world, beautifully composed rather than crowded. Dramatic dusk, deep midnight navy background, teal ocean, vibrant emerald and lime rim light on fruit, small warm amber highlights, atmospheric particles. No text, no lettering, no logos, no watermarks, no UI, no screenshots. Keep all central fruit fully in frame, no characters.

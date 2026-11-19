@@ -1,0 +1,11 @@
+{
+    "name": "blox-fruits-matheus",
+    "version": "3.0.0",
+    "private": true,
+    "description": "Projeto escolar de Matheus Bucher em HTML5, CSS e JavaScript.",
+    "scripts": {
+        "preview": "node preview.mjs",
+        "check": "node check-catalog.mjs",
+        "catalog": "node build-catalog.mjs"
+    }
+}
